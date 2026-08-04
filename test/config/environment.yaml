@@ -1,0 +1,9 @@
+# 环境登录配置
+name: "plug"
+url: "https://plug.ineln.com/site/login-account"
+username: "auto_test10"
+password: "auto_test10"
+
+member_username: "auto_test11"
+member_password: "auto_test11"
+group_name: "auto_test10"

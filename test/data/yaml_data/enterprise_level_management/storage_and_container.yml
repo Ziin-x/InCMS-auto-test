@@ -1,0 +1,14 @@
+type_name: {
+#    location: str,
+#    box: str,
+#    hole_plate: str,
+#    sample_tube: str
+}
+abbreviation: {
+#    location: str,
+#    box: str,
+#    hole_plate: str,
+#    sample_tube: str
+}
+
+#  field_title: str

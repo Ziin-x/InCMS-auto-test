@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Allure
+outputs/allure-results/
+outputs/allure-report/
+
+# Pytest cache
+.pytest_cache/
+record_test_data/
+
+# Claude Code — 项目记忆文件不上传
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,21 @@
+project_name: "混合项目（全部都有）3"
+
+all_project_template_dict:
+  "混合项目（全部都有）3":
+    化合物/序列:
+      - "化合物序列模板"
+    DNA:
+      - "DNA模板（我没有重名）"
+    RNA:
+      - "RNA模板（0509）"
+    自定义物质:
+      - "03-自定义物质的模板"
+    混合物/配方:
+      - "混合物/配方模板（0508）-有所有类型的字段"
+
+compound_composition_info:
+  smiles: "C1CCCCCCC1"
+  isomer_type: "Z"
+  sequence_dict:
+    A2: "AA"
+    B3: "BBB"

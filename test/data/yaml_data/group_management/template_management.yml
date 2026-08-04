@@ -1,0 +1,17 @@
+templateName: {}
+
+fieldName: "自动化测试自定义字段"
+
+parameter:
+  parameter_name: "自动化测试参数"
+  tip_message: "自动化测试提示信息"
+  parameter_option:
+    - "自动化测试参数选择项1"
+    - "自动化测试参数选择项2"
+    - "自动化测试参数选择项3"
+
+project:
+  project_name: {}
+  project_code: {}
+  start_time: "2025-01-01"
+  end_time: "2025-12-31"

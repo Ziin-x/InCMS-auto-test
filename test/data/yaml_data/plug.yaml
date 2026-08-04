@@ -1,0 +1,10 @@
+eln:
+  locator_and_url: eln
+  name:
+    - "电子实验记录本"
+    - "InELN"
+cms:
+  locator_and_url: cms
+  name:
+    - "化合物注册管理"
+    - "InCMS"
