@@ -150,7 +150,7 @@ class TestMemberPermissionManagement:
     #     member_page = member_context.new_page()
     #
     #     login_page = LoginPageObject(member_page)
-    #     login_page.login_plug(env, member_login=True)
+    #     login_page.login_plug(.env, member_login=True)
     #
     #     plug_page = PlugPageObject(member_page)
     #     plug_page.page.wait_for_load_state('networkidle')
